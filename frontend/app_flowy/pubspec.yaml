@@ -39,8 +39,8 @@ dependencies:
     path: packages/flowy_infra
   flutter_quill:
     git:
-      url: https://github.com/appflowy/flutter-quill.git
-      ref: dbc309f5e382963fa0122409a0aaf8e1417d51c1
+      url: https://github.com/myfknoll/flutter-quill.git
+      ref: c651b31846235fbbce16aa969bd662ab6b4a6bd4
 
   #  third party packages
   intl: ^0.17.0
